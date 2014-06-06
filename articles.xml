@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<articles>
+  <article index="1">
+    <title>24/7 Lorem Ipsum Sit Amet</title>
+    <image>images/office.jpg</image>
+    <content>
+      <firstParagraph>
+	  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum tellus imperdiet purus pretium, at tempor felis vehicula. Sed eleifend elit at dictum mattis. 
+	  Vivamus accumsan lectus interdum velit ornare, interdum sodales augue eleifend. Nam id neque porttitor, dapibus massa et, tempor ante. Nam dignissim adipiscing lorem at 
+	  hendrerit. Donec malesuada, nunc ac tempor fringilla, nulla erat interdum ante, eget luctus nisi ligula non nisi. Fusce sit amet ligula id leo molestie gravida. Proin bibendum 
+	  ac massa non volutpat. In in augue sollicitudin, porttitor risus viverra, interdum magna.
+	  </firstParagraph>
+      <secondParagraph>Cras iaculis et enim eget varius. Suspendisse ultricies pulvinar turpis ac volutpat. Pellentesque commodo felis at neque auctor, at dignissim urna auctor. Duis vulputate rutrum metus, a fringilla enim vehicula blandit. Integer ultricies felis in diam lobortis lacinia. Suspendisse pellentesque hendrerit nunc ac pretium. Maecenas et tellus non diam dictum aliquam sit amet id massa. Sed mi nisl, elementum eu massa quis, faucibus porttitor tortor.</secondParagraph>
+    </content>
+  </article>
+  <article index="2">
+    <title>Cras Iaculis et Enim Eget </title>
+	<image>images/student.jpg</image>
+    <content>
+      <firstParagraph>
+	  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum tellus imperdiet purus pretium, at tempor felis vehicula. Sed eleifend elit at dictum mattis. 
+	  Vivamus accumsan lectus interdum velit ornare, interdum sodales augue eleifend. Nam id neque porttitor, dapibus massa et, tempor ante. Nam dignissim adipiscing lorem at 
+	  hendrerit. Donec malesuada, nunc ac tempor fringilla, nulla erat interdum ante, eget luctus nisi ligula non nisi. Fusce sit amet ligula id leo molestie gravida. Proin bibendum 
+	  ac massa non volutpat. In in augue sollicitudin, porttitor risus viverra, interdum magna.
+	  </firstParagraph>
+      <secondParagraph>
+	  Cras iaculis et enim eget varius. Suspendisse ultricies pulvinar turpis ac volutpat. Pellentesque commodo felis at neque auctor, at dignissim urna auctor. 
+	  Duis vulputate rutrum metus, a fringilla enim vehicula blandit. Integer ultricies felis in diam lobortis lacinia. Suspendisse pellentesque hendrerit nunc ac pretium. Maecenas 
+	  et tellus non diam dictum aliquam sit amet id massa. Sed mi nisl, elementum eu massa quis, faucibus porttitor tortor.
+	  </secondParagraph>
+      <thirdParagraph>
+		Phasellus tristique massa sit amet urna iaculis varius. Suspendisse porttitor venenatis aliquet. Fusce pharetra vulputate enim, eu euismod urna ornare ac. Fusce elementum, 
+		metus vitae laoreet vehicula, tortor leo varius magna, in eleifend nisl enim non urna. Fusce pulvinar eleifend dui, vel convallis mi tincidunt vel. Vivamus molestie feugiat 
+		accumsan. Integer ut ultricies quam, in consectetur nisi.
+	  </thirdParagraph>
+    </content>
+  </article>
+  <article index="3">
+    <title>Suspendisse Ultricies Pulvinar</title>
+    <image>images/typing.jpg</image>
+    <content>
+      <firstParagraph>
+		Cras iaculis et enim eget varius. Suspendisse ultricies pulvinar turpis ac volutpat. Pellentesque commodo felis at neque auctor, at dignissim urna auctor. 
+		Duis vulputate rutrum metus, a fringilla enim vehicula blandit. Integer ultricies felis in diam lobortis lacinia. Suspendisse pellentesque hendrerit nunc ac pretium. 
+		Maecenas et tellus non diam dictum aliquam sit amet id massa. Sed mi nisl, elementum eu massa quis, faucibus porttitor tortor.	
+	  </firstParagraph>
+      <secondParagraph>
+		Phasellus tristique massa sit amet urna iaculis varius. Suspendisse porttitor venenatis aliquet. Fusce pharetra vulputate enim, eu euismod urna ornare ac. Fusce elementum, 
+		metus vitae laoreet vehicula, tortor leo varius magna, in eleifend nisl enim non urna. Fusce pulvinar eleifend dui, vel convallis mi tincidunt vel. Vivamus molestie feugiat accumsan. 
+		Integer ut ultricies quam, in consectetur nisi.
+	  </secondParagraph>
+      <thirdParagraph>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum tellus imperdiet purus pretium, at tempor felis vehicula. Sed eleifend elit at dictum mattis. 
+		Vivamus accumsan lectus interdum velit ornare, interdum sodales augue eleifend. Nam id neque porttitor, dapibus massa et, tempor ante. Nam dignissim adipiscing 
+		lorem at hendrerit. Donec malesuada, nunc ac tempor fringilla, nulla erat interdum ante, eget luctus nisi ligula non nisi. Fusce sit amet ligula id leo molestie gravida. 
+		Proin bibendum ac massa non volutpat. In in augue sollicitudin, porttitor risus viverra, interdum magna.
+	  </thirdParagraph>
+    </content>
+  </article>
+  <article>
+    <title>Fusce sit Amet Ligula id leo </title>
+    <image>images/working.jpg</image>
+    <content>
+      <firstParagraph>
+		Cras iaculis et enim eget varius. Suspendisse ultricies pulvinar turpis ac volutpat. Pellentesque commodo felis at neque auctor, at dignissim urna auctor. 
+		Duis vulputate rutrum metus, a fringilla enim vehicula blandit. Integer ultricies felis in diam lobortis lacinia. Suspendisse pellentesque hendrerit nunc ac pretium. 
+		Maecenas et tellus non diam dictum aliquam sit amet id massa. Sed mi nisl, elementum eu massa quis, faucibus porttitor tortor.	
+	  </firstParagraph>
+      <secondParagraph>
+		Phasellus tristique massa sit amet urna iaculis varius. Suspendisse porttitor venenatis aliquet. Fusce pharetra vulputate enim, eu euismod urna ornare ac. Fusce elementum, 
+		metus vitae laoreet vehicula, tortor leo varius magna, in eleifend nisl enim non urna. Fusce pulvinar eleifend dui, vel convallis mi tincidunt vel. Vivamus molestie feugiat accumsan. 
+		Integer ut ultricies quam, in consectetur nisi.
+	  </secondParagraph>
+      <thirdParagraph>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum tellus imperdiet purus pretium, at tempor felis vehicula. Sed eleifend elit at dictum mattis. 
+		Vivamus accumsan lectus interdum velit ornare, interdum sodales augue eleifend. Nam id neque porttitor, dapibus massa et, tempor ante. Nam dignissim adipiscing 
+		lorem at hendrerit. Donec malesuada, nunc ac tempor fringilla, nulla erat interdum ante, eget luctus nisi ligula non nisi. Fusce sit amet ligula id leo molestie gravida. 
+		Proin bibendum ac massa non volutpat. In in augue sollicitudin, porttitor risus viverra, interdum magna.
+	  </thirdParagraph>
+    </content>
+  </article>
+
