@@ -14,16 +14,16 @@
 <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
 <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
 <!--[if IE]>
-	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
 <script>
  $(function() {
 $( "#accordion" ).accordion({
-	collapsible: true,
-    'fillSpace': false,              // http://www.java2s.com/Code/JavaScript/jQuery/jQueryUIAccordionFillspace.htm
+    collapsible: true,
+    'fillSpace': false,  
     'clearStyle': true,
-	'autoHeight Type': false  // https://forum.jquery.com/topic/accordion-ui-too-much-white-space
+    'autoHeight Type': false 
 });
 });
 </script>
@@ -34,8 +34,8 @@ $( "#accordion" ).accordion({
 
 <body>
 <!-- navigation manu template -->
-<?php	 include_once 'navbar.php' ; ?>
-	
+<?php include_once 'navbar.php' ; ?>
+    
 
 
 

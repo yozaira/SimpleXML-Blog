@@ -2,10 +2,9 @@
 require_once 'includes/form_functions.inc.php';  
 
   if (isset($_POST['submit']) ) {  
-
-  $errors = array();  // initialize an array to hold our errors   
-  $required_fields = array('title', 'image', 'content', 'first-para', 'second-para');  // perform validation for required fields 
-  $errors = array_merge($errors, check_required_fields($required_fields, $_POST));  
+      $errors = array();  // initialize an array to hold our errors   
+      $required_fields = array('title', 'image', 'content', 'first-para', 'second-para');  // perform validation for required fields 
+      $errors = array_merge($errors, check_required_fields($required_fields, $_POST));  
      
     if(isset($_POST['title'], $_POST['first-para'], $_POST['second-para'], $_POST['third-para'] ) ) {
       $title_textNode = trim($_POST['title']);
@@ -36,14 +35,14 @@ require_once 'includes/form_functions.inc.php';
         && $img_size > 0                         // check the file dont exceed the max size permitted
         && $img_size <= MAX_FILE_SIZE
         && !check_required_fields($required_fields, $_POST)
-     ){   
+        ){   
        // If img ok, store it con the defined directory using move_uploaded_file(). IF DESIRED, RANAME 
        // IT(see rename() on www.php.net)               
        // move_uploaded_file() moves the uploaded file from its temporary location to its permanent one.  
        // It will return false if $imageName  is not a valid upload file or if it cannot be moved for any other reason.   
        move_uploaded_file($img_temp_name, UPLOAD_DIR.$img_name);    
       
-   }else {  
+    }else {  
           // Oherwise, display img errors using switch() and $_FILES error array.   
           // switch ($_FILES['image']['error']) {   
           switch($img_name){ 
@@ -72,7 +71,7 @@ require_once 'includes/form_functions.inc.php';
             default: 
             $errors[]= "Error uploading file. Please try again.";                  
             break; 
-        }
+          }
     }   
     
     if(empty($errors)) {  
