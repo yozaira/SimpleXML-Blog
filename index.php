@@ -1,12 +1,11 @@
 <?php  
 // This script uses PHP SimpleXML extension to access the element of a XML file and output the value of those elements.
-
 include_once 'includes/header.php';   ?> 
 
 <div class="container"><!--  ends on includes/footer.php -->
   <div class="row">
-       <div class="col-lg-12">		
-	       <div id="accordion">	
+   <div class="col-lg-12">		
+	  <div id="accordion">	
 		    <?php			
 			libxml_use_internal_errors(true);
 			$objXML = simplexml_load_file('articles.xml');
@@ -15,14 +14,14 @@ include_once 'includes/header.php';   ?>
 			if (!$objXML) {
 			   $errors = libxml_get_errors();
 			   foreach($errors as $error)  {
-			      echo 'ERROR: ' .$error->message,'<br/>';
+			     echo 'ERROR: ' .$error->message,'<br/>';
 			   }
 			}
 			else {
 			     foreach($objXML->article as $article) {										 
 		       ?>
 			<div class="heading" >
-			   <div class="title"><?php echo $article->title; ?></dsiv>
+			<div class="title"><?php echo $article->title; ?></dsiv>
 			</div>
 			<div class="content">
 			<p>	
@@ -39,9 +38,9 @@ include_once 'includes/header.php';   ?>
 			  }
 			} 
 		      ?>											              
-	       </div>			
-           </div>
-       </div>
+	  </div>			
+  </div>
+</div>
 <?php include_once 'includes/footer.php'; ?>
 
 
