@@ -37,7 +37,7 @@ include_once 'includes/header.php';   ?>
 			<?php	
 			  }
 			} 
-		      ?>											              
+		 ?>											              
 	  </div>			
   </div>
 </div>
